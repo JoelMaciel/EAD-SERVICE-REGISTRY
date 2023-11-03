@@ -4,7 +4,7 @@
 
 ## About the Project
 
-**Microservice Service Registry **  is a service designed for the management and discovery of all microservices within your architecture. By leveraging the Eureka Discovery Client, it ensures efficient and reliable communication amongst various microservices.
+**Microservice Service Registry**  is a service designed for the management and discovery of all microservices within your architecture. By leveraging the Eureka Discovery Client, it ensures efficient and reliable communication amongst various microservices.
 
 
 
