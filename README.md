@@ -14,7 +14,6 @@
 - **Service Discovery:** Eureka
 - API Gateway
 - **Message Broker:** RabbitMQ
-- **Documentation & Standards:** OpenAPI, Swagger, HATEOAS
 - **Security:** Spring Security, JWT
 
 
@@ -23,7 +22,13 @@
 ### Prerequisites
 
 - Java Development Kit (JDK 11)
-- MySQL Database Server
+
+## Request Images
+
+
+#### Services registered with Eureka Discovery
+
+![Captura de tela de 2023-11-12 20-41-16](https://github.com/JoelMaciel/EAD-COURSE/assets/77079093/a2dd17f6-f001-4350-9698-779858d7b7c9)
 
 
 ### Clone the Repository
